@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="challenges">
+        <item>Жди денег</item>
+        <item>Осторожно!</item>
+        <item>Все будет хорошо</item>
+        <item>Потеряешь деньги</item>
+        <item>Новое знакомство</item>
+        <item>Любовь</item>
+        <item>Счастье</item>
+        <item>Смерть</item>
+        <item>Приключения</item>
+        <item>Дальняя дорога</item>
+    </string-array>
+</resources>
